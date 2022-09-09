@@ -1,6 +1,6 @@
 <h3 align="center"> Hi, I’m Gheorghe Bujac </h3>
  <h5 align="center">I’m interested in Web Applications, App Development, Data Science, Fintech, CyberSecurity</h5>
- <h5 align="center">I have recently graduated Cardiff Univerisy</h5>
+ <h5 align="center">I have recently graduated Cardiff University</h5>
  <h5 align="center">I’m looking to collaborate with other software engineers</h5>
 
 <h3 align="left">Connect with me:</h3>
